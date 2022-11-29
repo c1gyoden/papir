@@ -30,3 +30,12 @@ div{
     width: 100%;
     
 }
+table{
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+td{
+    background-color: green;
+    height: 60px;
+}
