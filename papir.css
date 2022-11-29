@@ -15,3 +15,9 @@ p {
 p, h2 {
     padding: 0 8px;
 }
+body{
+    background-color: #999;
+}
+a{
+    color: white;
+}
