@@ -9,7 +9,8 @@ p {
 
 .keretezett {
     width: 33%;
-    margin: 0 33%
+    margin: 0 33%;
+    border: 1px solid black;
 }
 
 p, h2 {
@@ -17,9 +18,12 @@ p, h2 {
 }
 body{
     background-color: #999;
+    
 }
 a{
     color: white;
+    font-weight: 700;
+    font-size: 120%;
 }
 div{
     width: 670px;
@@ -29,11 +33,13 @@ div{
 .fejlec{
     width: 100%;
     
+    
 }
 table{
     width: 650px;
     margin: 0 auto;
     text-align: center;
+    border-spacing: 0;
 }
 td{
     background-color: green;
